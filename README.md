@@ -17,16 +17,4 @@
 
 # Screen Shots:
 
-/home/aehsas/Pictures/Screenshot from 2020-10-29 15-36-21.png
 
-/home/aehsas/Pictures/Screenshot from 2020-10-29 15-36-38.png
-
-/home/aehsas/Pictures/Screenshot from 2020-10-29 15-36-52.png
-
-/home/aehsas/Pictures/Screenshot from 2020-10-29 15-37-01.png
-
-/home/aehsas/Pictures/Screenshot from 2020-10-29 15-37-16.png
-
-/home/aehsas/Pictures/Screenshot from 2020-10-29 15-37-48.png
-
-/home/aehsas/Pictures/Screenshot from 2020-10-29 15-38-04.png
