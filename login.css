@@ -1,0 +1,85 @@
+h1
+{
+  padding: 20px 20px 20px 20px;
+}
+body{
+
+  background-image: url("/home/aehsas/Pictures/website/bg-1.jpg");
+  color: black;
+  text-align: center;
+  font-family: sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+section
+{
+
+  width: 320px;
+  height: 450px;
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  background-color: black;
+  padding: 30px 30px;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+section label{
+  padding: 7px 7px 7px 10px;
+  color:grey;
+  font-weight: bold;
+
+}
+section img{
+  width :60px;
+  height: 60px;
+  position: relative;
+  top:10px;
+  border-radius: 7px;
+  left:calc(40% -40);
+}
+section h1
+{
+  color:white;
+  margin:20px 20px 20px;
+
+}
+section input{
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #fff;
+  outline:none;
+  padding: 2px 2px 2px;
+  height: 40px;;
+  color: #fff;
+
+}
+button{
+  border-radius: 20px;
+  font-size: 18px;
+  height: 40px;
+  outline: none;
+  color:black;
+  border:none;
+  width: 200px;
+  background-color: white;
+}
+button:hover
+{
+  background-color: white;
+  cursor: pointer;
+  border-radius: 40px;
+  font-size: 18px;
+  height: 40px;
+  outline: none;
+  border:none;
+}
+.px2
+{
+ 
+  color:black;
+}
